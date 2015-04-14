@@ -1718,6 +1718,67 @@
 			};
 			name = Release;
 		};
+		176A27CE1ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA1941CC0D94A70100DD942E /* ConfigCommonRelease.xcconfig */;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27CF1ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA1941D50D94A70100DD942E /* ConfigFrameworkRelease.xcconfig */;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D01ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA1941D20D94A70100DD942E /* ConfigTestAppRelease.xcconfig */;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D11ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA3AAF391050B273004B3130 /* ConfigUnitTestRelease.xcconfig */;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D21ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5D06E8F30FD68D21005AE3F6 /* ConfigBinaryDeltaRelease.xcconfig */;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D31ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA1941D40D94A70100DD942E /* ConfigRelaunchRelease.xcconfig */;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D41ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D51ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = PrivateBeta;
+		};
+		176A27D61ADD304A00868423 /* PrivateBeta */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = PrivateBeta;
+		};
 		1DEB91AE08733DA50010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA1941CA0D94A70100DD942E /* ConfigFrameworkDebug.xcconfig */;
@@ -1810,6 +1871,7 @@
 			buildConfigurations = (
 				1420DF4B1962329200203BB0 /* Debug */,
 				1420DF4C1962329200203BB0 /* Release */,
+				176A27D51ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1819,6 +1881,7 @@
 			buildConfigurations = (
 				14732BC71960F69300593899 /* Debug */,
 				14732BC81960F69300593899 /* Release */,
+				176A27D41ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1828,6 +1891,7 @@
 			buildConfigurations = (
 				14950061195FB89500BC5B5B /* Debug */,
 				14950062195FB89500BC5B5B /* Release */,
+				176A27D61ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1837,6 +1901,7 @@
 			buildConfigurations = (
 				1DEB91AE08733DA50010E9CD /* Debug */,
 				1DEB91AF08733DA50010E9CD /* Release */,
+				176A27CF1ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1846,6 +1911,7 @@
 			buildConfigurations = (
 				1DEB91B208733DA50010E9CD /* Debug */,
 				1DEB91B308733DA50010E9CD /* Release */,
+				176A27CE1ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1855,6 +1921,7 @@
 			buildConfigurations = (
 				55C14BBB136EEF1500649790 /* Debug */,
 				55C14BBC136EEF1500649790 /* Release */,
+				176A27D31ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1864,6 +1931,7 @@
 			buildConfigurations = (
 				5D06E8D20FD68C7D005AE3F6 /* Debug */,
 				5D06E8D30FD68C7D005AE3F6 /* Release */,
+				176A27D21ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1873,6 +1941,7 @@
 			buildConfigurations = (
 				612279DB0DB5470300AB99EA /* Debug */,
 				612279DC0DB5470300AB99EA /* Release */,
+				176A27D11ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1882,6 +1951,7 @@
 			buildConfigurations = (
 				61B5F90609C4CEE300B25A18 /* Debug */,
 				61B5F90709C4CEE300B25A18 /* Release */,
+				176A27D01ADD304A00868423 /* PrivateBeta */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
